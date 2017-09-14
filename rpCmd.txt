@@ -1,1 +1,2 @@
+rp cmd commit after hr web diverge. Using fetch
 test push from sourcetree
