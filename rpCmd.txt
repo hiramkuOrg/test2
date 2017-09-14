@@ -1,1 +1,3 @@
+PR#2 gets stale: rp cmd fork changes while PR#2 still open and hr made web master non conflicting changes. Using fetch
+rp cmd commit after hr web diverge. Using fetch
 test push from sourcetree
